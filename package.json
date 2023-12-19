@@ -13,7 +13,7 @@
     "extends": "@meteorjs/eslint-config-meteor"
   },
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.1",
     "bootstrap": "^3.3.7",
     "country-city": "^1.0.0",
     "coupon-code": "^0.4.4",
@@ -23,7 +23,7 @@
     "jquery-mousewheel": "^3.1.13",
     "jquery-ui": "^1.12.1",
     "jquery-validation": "^1.15.1",
-    "jsdom": "^11.4.0",
+    "jsdom": "^16.6.0",
     "materialize-css": "^0.100.2",
     "meteor-node-stubs": "^0.3.2",
     "numeral": "^2.0.6",
@@ -31,7 +31,7 @@
     "react": "^16.0.0",
     "react-bootstrap": "^0.31.5",
     "react-custom-scrollbars": "^4.0.0",
-    "react-dom": "^16.0.0",
+    "react-dom": "^16.2.1",
     "react-edit-inline": "git+https://github.com/entrptaher/ReactInlineEdit.git",
     "react-router": "^3.2.0",
     "react-router-bootstrap": "^0.23.1",
