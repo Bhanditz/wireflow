@@ -25,7 +25,7 @@
     "jquery-validation": "^1.15.1",
     "jsdom": "^11.4.0",
     "materialize-css": "^0.100.2",
-    "meteor-node-stubs": "^0.3.2",
+    "meteor-node-stubs": "^1.2.8",
     "numeral": "^2.0.6",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
